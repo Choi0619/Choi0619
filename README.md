@@ -20,6 +20,8 @@ I am a  enthusiast coder who is learning to be a data scientist.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi0619)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 📱 Contact Me 
 <div float="left">
   <a href="mailto:wrtyu0604@gmail.com"> 
