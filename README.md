@@ -1,2 +1,2 @@
-# Gyuhwan-Choi
+# Choi0619
 My GitHub profile :)
