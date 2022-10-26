@@ -20,10 +20,6 @@ I am a  enthusiast coder who is learning to be a data scientist.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
 
-## Stats📈 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&theme=tokyonight)
-
-
 ## 📱 Contact Me 
 <div float="left">
   <a href="mailto:wrtyu0604@gmail.com"> 
@@ -37,13 +33,14 @@ I am a  enthusiast coder who is learning to be a data scientist.
   </a>
 </div>
 
-  
 ### ⚒️ Tools and libraries
 <div float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50"/>
 </div>
 
+## Stats📈 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&theme=tokyonight)
 
 ### OS that I used
 Windows, Fedora, Ubuntu, Kali Linux
