@@ -17,9 +17,9 @@ I am a  enthusiast coder who is learning to be a data scientist.
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
 
-
+## Contact Me
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  [Contact me]<mailto:wrtyu0604@gmail.com>
+  [user@example.com](mailto:user@example.com)
   
 ### ⚒️ Tools and libraries
 <div float="left">
