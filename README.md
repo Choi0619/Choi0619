@@ -20,7 +20,7 @@ I am a  enthusiast coder who is learning to be a data scientist.
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
 
-## Contact Me 
+## 📱 Contact Me 
 <div float="left">
   <a href="mailto:wrtyu0604@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
@@ -37,10 +37,13 @@ I am a  enthusiast coder who is learning to be a data scientist.
 ### ⚒️ Tools and libraries
 <div float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="50"/>
 </div>
+
 
 ### OS that I used
 Windows, Fedora, Ubuntu, Kali Linux
+
 
 ### What I have developed on
 - Customized Windows
@@ -48,8 +51,10 @@ Windows, Fedora, Ubuntu, Kali Linux
 - Smart Mirror project with Raspberry PI.
 - Java application that handles banking operations connected to a database.
 
+
 ### Experience
 - 👨‍💻  Computer Engineering for 2 years @ Withus Computer
+
 
 
 ### Education
