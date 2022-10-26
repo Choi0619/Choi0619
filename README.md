@@ -21,9 +21,8 @@ I am a  enthusiast coder who is learning to be a data scientist.
 </div>
 
 ## Stats📈 
-<p align="center"> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&theme=tokyonight)
-</p>
+
 
 ## 📱 Contact Me 
 <div float="left">
