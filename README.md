@@ -19,7 +19,7 @@ I am a  enthusiast coder who is learning to be a data scientist.
 
 ## Contact Me
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <mailto:user@example.com>
+  <a href="mailto:user@example.com">user@example.com</a>
   
 ### ⚒️ Tools and libraries
 <div float="left">
