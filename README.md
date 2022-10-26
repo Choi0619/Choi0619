@@ -2,7 +2,7 @@
   Hello, my name is Gyuhwan Choi
 </h2>
 <p align="center">
-  🧑‍🎓 Information Technology and Management @ IIT | 🌐 
+  🧑‍🎓 Information Technology and Management @ IIT | 🌐 Data Scientist
 </p>
 
 ## 📖 About me
