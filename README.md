@@ -56,7 +56,7 @@ Windows, Fedora, Ubuntu, Kali Linux
 
 
 ### Experience
-- 👨‍💻  Data Analytics for 2 years @ Withus Computer
+- 👨‍💻  Data Analytics for 2 years @ Withus Computer  | 2020 - 2022
 
 
 
