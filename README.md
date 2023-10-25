@@ -47,17 +47,20 @@ Windows, Fedora, Ubuntu, Kali Linux
 
 
 ### What I have developed on
-- Customized Windows
-- Automatic Voice Converter
-- Smart Mirror project with Raspberry PI.
+- Malware Detection System
+- Library Database Management System
+- Self-Driving Camera-Equipped Car
+- Speech Recognition Model
 - Java application that handles banking operations connected to a database.
+- Smart Mirror project with Raspberry PI.
 
 
 ### Experience
-- 👨‍💻  Computer Engineering for 2 years @ Withus Computer
+- 👨‍💻  Data Analytics for 2 years @ Withus Computer
 
 
 
 ### Education
+- 🎓 Master in Information Technology and Management @ IIT | 2023 - 2024
 - 🎓 Bachelor in Information Technology and Management @ IIT | 2018 - 2023
 - 🎓 Exchange Student as Computer Science  @ Korea University | 2019 - 2020
