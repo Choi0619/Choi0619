@@ -56,8 +56,8 @@ Windows, Fedora, Ubuntu, Kali Linux
 
 
 ### Experience
-- 👨‍💻  Data Analytics for 2 years @ Withus Computer  | 2020 - 2022
-
+- 🧑‍🔬  National Researcher | 2024 - Present
+- 👨‍💻  Data Analytics @ Withus Computer  | 2020 - 2022
 
 
 ### Education
