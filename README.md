@@ -25,7 +25,7 @@ I am a  enthusiast coder who is learning to be a data scientist.
   <a href="mailto:wrtyu0604@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
   </a>
-  <a href="[https://www.linkedin.com/in/gyuhwan-choi-579861180/](https://www.linkedin.com/in/gyuhwan-choi-data-science/)">
+  <a href="https://www.linkedin.com/in/gyuhwan-choi-data-science/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/gyuh.wan/">
