@@ -27,8 +27,9 @@ I am a data scientist passionate about uncovering insights through data analysis
 
 ## 📊 GitHub Stats
 ![Gyuhwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&hide=issues,prs&theme=tokyonight&hide_rank=true)
-<img src="https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&theme=default&bg_color=ffffff&text_color=000000&hide_rank=true&hide=prs&custom_title=Gyuhwan's%20GitHub%20Stats" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi0619&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide=prs&langs_count=10&custom_title=Languages%20by%20File%20Size" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&theme=default&bg_color=ffffff&text_color=000000&hide_rank=true&hide=prs&custom_title=Gyuhwan's%20GitHub%20Stats" width="400" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi0619&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide=prs&langs_count=10&custom_title=Languages%20by%20File%20Size" width="400" height="200" />
+
 
 
 <a href="https://github.com/jstrieb/github-stats">
