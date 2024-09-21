@@ -1,6 +1,7 @@
 <h2 align="center">
   Hello, my name is Gyuhwan Choi
 </h2>
+
 <p align="center">
   🧑‍🎓 Information Technology and Management @ IIT | 🌐 Data Scientist
 </p>
@@ -8,103 +9,91 @@
 ## 📖 About me
 I am a data scientist passionate about uncovering insights through data analysis. I thrive on solving complex problems using AI and data analytics, continuously exploring new trends in technology. I enjoy transforming raw data into meaningful insights that drive innovation and decision-making.
 
----
+<br>
 
 ## 💻 Programming Languages
-<div float="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mojo-00FF00?style=for-the-badge"/>
+<div float="left" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="50"/>
 </div>
 
----
+<br>
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&theme=default&bg_color=ffffff&text_color=000000&hide_rank=true&hide=prs&custom_title=Gyuhwan's%20GitHub%20Stats" width="400" height="200" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi0619&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide=prs&langs_count=10&custom_title=Languages%20by%20File%20Size" width="400" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&theme=default&bg_color=ffffff&text_color=000000&hide_rank=true&hide=prs&custom_title=Gyuhwan's%20GitHub%20Stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Choi0619&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide=prs&langs_count=10&custom_title=Languages%20by%20File%20Size" height="200" />
 
 
 
-<a href="https://github.com/jstrieb/github-stats">
-  ![](https://github.com/Choi0619/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/Choi0619/github-stats/blob/master/generated/languages.svg)
-</a>
----
+<br>
 
 ## 🎓 Education
 - 🎓 Master in Information Technology and Management @ IIT | 2023 - 2024
 - 🎓 Bachelor in Information Technology and Management @ IIT | 2018 - 2023
 - 🎓 Exchange Student in Computer Science @ Korea University | 2019 - 2020
 
----
+<br>
 
-## 🛠 Python Libraries
-<div float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/beautifulsoup.png" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spacy/spacy-original.svg" width="50"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/000000/gradio.png" width="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
-</div>
-
-
----
-
-## 📊 Data Visualization
-<div float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/ggplot2.png" width="50"/> 
-</div>
-
----
-
-## 🏢 Database Management
-<div float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  <img src="https://duckdb.org/images/duckdb.svg" width="50"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="50"/>
-</div>
-
----
-
-## 📂 Big Data & Distributed Systems
-<div float="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="50"/>
-</div>
-
----
-
-## 💼 Experience
+## 💼 Work Experience
 - 👨‍💻 Data Analyst @ Clouty™ | 2024 - Present
 - 👨‍🏫 Team Lead @ LIKELION US | 2024 - Present
 - 🧑‍🔬 National AI Researcher @ Hallym University | 2024 - Present
 - 💰 Secretary/Treasurer @ Illinois Tech | 2023 - 2024
 - 👨‍💻 Data Analytics @ Withus Computer | 2020 - 2022
 
----
+<br>
+
+## 🛠 Python Libraries
+<div float="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Beautiful%20Soup-2A2A2A?style=for-the-badge&logo=beautifulsoup&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Gradio-FFA500?style=for-the-badge&logo=gradio&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="100"/>
+</div>
+
+## 📊 Data Visualization
+<div float="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="150"/>
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/ggplot2-EF4A36?style=for-the-badge&logo=ggplot2&logoColor=white" width="150"/>
+</div>
+
+
+## 🏢 Database Management
+<div float="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="150"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFCC00?style=for-the-badge&logo=duckdb&logoColor=black" width="150"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" width="150"/>
+</div>
+
+## 📂 Big Data & Distributed Systems
+<div float="left" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" width="150"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white" width="150"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" width="150"/>
+</div>
+
 
 ## 📱 Contact Me
 <div float="left">
