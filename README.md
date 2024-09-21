@@ -60,7 +60,9 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
+
 <br>
+
 ## 📊 Data Visualization
 <div float="left" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
@@ -69,7 +71,9 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/ggplot2-EF4A36?style=for-the-badge&logo=ggplot2&logoColor=white"/>
 </div>
+
 <br>
+
 ## 🏢 Database Management
 <div float="left" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
@@ -78,7 +82,9 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </div>
+
 <br>
+
 ## 📂 Big Data & Distributed Systems
 <div float="left" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -88,7 +94,9 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </div>
+
 <br>
+
 ### Languages Used by File Size
 ![Languages by File Size](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi0619&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide=prs&langs_count=10&custom_title=Languages%20by%20File%20Size&card_width=400)
 
