@@ -28,6 +28,10 @@ I am a data scientist passionate about uncovering insights through data analysis
 ## 📊 GitHub Stats
 ![Gyuhwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&hide=issues,prs&theme=tokyonight&hide_rank=true)
 
+<a href="https://github.com/jstrieb/github-stats">
+  ![](https://github.com/Choi0619/github-stats/blob/master/generated/overview.svg)
+  ![](https://github.com/Choi0619/github-stats/blob/master/generated/languages.svg)
+</a>
 ---
 
 ## 🎓 Education
