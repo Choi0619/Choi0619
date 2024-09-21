@@ -8,7 +8,6 @@
 ## 📖 About me
 I am a data scientist passionate about uncovering insights through data analysis. I thrive on solving complex problems using AI and data analytics, continuously exploring new trends in technology. I enjoy transforming raw data into meaningful insights that drive innovation and decision-making.
 
----
 
 ## 💻 Programming Languages
 <div float="left">
@@ -23,19 +22,16 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://img.shields.io/badge/Mojo-00FF00?style=for-the-badge"/>
 </div>
 
----
 
 ## 📊 GitHub Stats
 ![Gyuhwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&hide=issues,prs&theme=tokyonight&hide_rank=true)
 
----
 
 ## 🎓 Education
 - 🎓 Master in Information Technology and Management @ IIT | 2023 - 2024
 - 🎓 Bachelor in Information Technology and Management @ IIT | 2018 - 2023
 - 🎓 Exchange Student in Computer Science @ Korea University | 2019 - 2020
 
----
 
 ## 🛠 Python Libraries
 <div float="left">
@@ -53,7 +49,6 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50"/>
 </div>
 
----
 
 ## 📊 Data Visualization
 <div float="left">
@@ -64,8 +59,6 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ggplot2/ggplot2-original.svg" width="50"/>
 </div>
 
----
-
 ## 🏢 Database Management
 <div float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>
@@ -75,7 +68,6 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg" width="50"/>
 </div>
 
----
 
 ## 📂 Big Data & Distributed Systems
 <div float="left">
@@ -87,7 +79,6 @@ I am a data scientist passionate about uncovering insights through data analysis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="50"/>
 </div>
 
----
 
 ## 💼 Experience
 - 👨‍💻 Data Analyst @ Clouty™ | 2024 - Present
@@ -96,7 +87,6 @@ I am a data scientist passionate about uncovering insights through data analysis
 - 💰 Secretary/Treasurer @ Illinois Tech | 2023 - 2024
 - 👨‍💻 Data Analytics @ Withus Computer | 2020 - 2022
 
----
 
 ## 📱 Contact Me
 <div float="left">
