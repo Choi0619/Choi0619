@@ -8,6 +8,9 @@
 ## 📖 About me
 I am a  enthusiast coder who is learning to be a data scientist.
 
+## 📊 GitHub Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Choi0619&theme=tokyo-night)](https://github.com/Choi0619)
+
 ## 💻 Programming Languages
 <div float="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
