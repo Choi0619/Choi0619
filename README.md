@@ -100,6 +100,8 @@ I am a data scientist passionate about uncovering insights through data analysis
 ### Languages Used by File Size
 ![Languages by File Size](https://github-readme-stats.vercel.app/api/top-langs/?username=Choi0619&layout=compact&theme=default&bg_color=ffffff&text_color=000000&hide=prs&langs_count=10&custom_title=Languages%20by%20File%20Size&card_width=400)
 
+<br>
+
 ## 📱 Contact Me
 <div float="left">
   <a href="mailto:wrtyu0604@gmail.com">
