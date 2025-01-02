@@ -26,7 +26,7 @@ I am a data scientist passionate about uncovering insights through data analysis
 <br>
 
 ## 📊 GitHub Stats
-![Gyuhwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=true&theme=default&bg_color=ffffff&text_color=000000&hide_rank=true&hide=prs&custom_title=Gyuhwan's%20GitHub%20Stats&card_width=400)
+![Gyuhwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Choi0619&show_icons=true&count_private=false&theme=default&bg_color=ffffff&text_color=000000&hide_rank=true&hide=prs&custom_title=Gyuhwan's%20GitHub%20Stats&card_width=400)
 <br>
 
 ## 🎓 Education
